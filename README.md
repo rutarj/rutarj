@@ -1,4 +1,4 @@
-![github-header-image (1)](https://imgur.com/a/VjBzrSu)
+![github-header-image (1)](https://raw.githubusercontent.com/rutarj/rutarj/refs/heads/main/An8t-tIMQ4Q5JeR8Ns-rhwMAfB1kBWpO2751XY6ooAoVKbZVzqbvNyzHVdFgSMD-SLkjpjPNboFMK85YeYN0nPLxfR993T3M1E4FtgNwAYLwYpg.webp)
 # Hi there, I'm [Your Name] 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer and developer who loves building amazing projects and learning new things. 🚀
