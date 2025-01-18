@@ -1,8 +1,7 @@
 ![github-header-image (1)](https://raw.githubusercontent.com/rutarj/rutarj/refs/heads/main/An8t-tIMQ4Q5JeR8Ns-rhwMAfB1kBWpO2751XY6ooAoVKbZVzqbvNyzHVdFgSMD-SLkjpjPNboFMK85YeYN0nPLxfR993T3M1E4FtgNwAYLwYpg.webp)
-# Hi there, I'm [Your Name] 👋
+# Hello there, I'm Rutarj 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer and developer who loves building amazing projects and learning new things. 🚀
-
+<h3 align="center">Welcome to my GitHub profile! I'm an aspiring software developer passionate about creating innovative products through code.</h3>
 ## 📫 Contact Me
 [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Twitter](https://twitter.com/yourprofile) | [Portfolio](https://yourportfolio.com)
 
