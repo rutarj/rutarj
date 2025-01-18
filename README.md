@@ -22,14 +22,10 @@ Here are some of the cool projects I've been working on:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutarj&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="rutarj's GitHub Stats" />
 ## 💻 Current Projects
 
-- [Project X](https://github.com/yourusername/projectx) - Description of project X.
-- [Project Y](https://github.com/yourusername/projecty) - Description of project Y.
 
-## 👾 Fun Facts
 
-- I love coding and solving complex problems.
-- I'm always excited to learn new frameworks and technologies.
-- Outside of coding, I enjoy reading tech blogs and playing video games.
+- [Deep Vision Analystics](https://github.com/rutarj/Deep-Vision-Analytics) - DeepVisionAnalytics explores deep learning and image processing through hands-on projects, covering applications like face recognition and object tracking.
+- [AI travel App] - Designed to customize your trip based on your preferences, making travel planning effortless and personalized.
 
 ---
 
