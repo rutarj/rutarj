@@ -19,9 +19,7 @@ Here are some of the cool projects I've been working on:
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutarj&theme=default&show_icons=true&hide_border=true&layout=compact">
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutarj&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="rutarj's GitHub Stats" />
 ## 💻 Current Projects
 
 - [Project X](https://github.com/yourusername/projectx) - Description of project X.
