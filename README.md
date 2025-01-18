@@ -4,7 +4,7 @@
 <h3 align="center">Welcome to my GitHub profile! I'm an aspiring software developer passionate about creating innovative products through code.</h3>
 
 ## 📫 Contact Me
-[Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Twitter](https://twitter.com/yourprofile) | [Portfolio](https://yourportfolio.com)
+[Email](mailto:shahrutarj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rutarj-shah-29b842270/) | [Leetcode]((https://leetcode.com/u/shahrutarj/)) | [Portfolio](https://yourportfolio.com)
 
 ## 🛠️ Technologies & Tools
 
