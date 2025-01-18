@@ -1,5 +1,8 @@
-![github-header-image (1)](https://raw.githubusercontent.com/rutarj/rutarj/refs/heads/main/An8t-tIMQ4Q5JeR8Ns-rhwMAfB1kBWpO2751XY6ooAoVKbZVzqbvNyzHVdFgSMD-SLkjpjPNboFMK85YeYN0nPLxfR993T3M1E4FtgNwAYLwYpg.webp)
-# Hello there, I'm Rutarj 👋
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/rutarj/rutarj/refs/heads/main/An8t-tIMQ4Q5JeR8Ns-rhwMAfB1kBWpO2751XY6ooAoVKbZVzqbvNyzHVdFgSMD-SLkjpjPNboFMK85YeYN0nPLxfR993T3M1E4FtgNwAYLwYpg.webp" alt="github-header-image">
+</h2>
+
+<h3 align="center">Hello 👨‍💻, I'm Rutarj 👋</h3>
 
 <h3 align="center">Welcome to my GitHub profile! I'm an aspiring software developer passionate about creating innovative products through code.</h3>
 
