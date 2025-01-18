@@ -1,41 +1,56 @@
-# Hi there, I'm [Your Name] 👋
+# <div align="center">Hi there, I'm [Your Name] 👋</div>
 
 Welcome to my GitHub profile! I'm a passionate software engineer and developer who loves building amazing projects and learning new things. 🚀
 
-## 📫 Contact Me
-[Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Twitter](https://twitter.com/yourprofile) | [Portfolio](https://yourportfolio.com)
+## <div align="center">📫 Contact Me</div>
+<div align="center">
+  [Email](mailto:your.email@example.com) | 
+  [LinkedIn](https://www.linkedin.com/in/yourprofile/) | 
+  [Twitter](https://twitter.com/yourprofile) | 
+  [Portfolio](https://yourportfolio.com)
+</div>
 
-## 🛠️ Technologies & Tools
+## <div align="center">🛠️ Technologies & Tools</div>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mongodb)
+<div align="center">
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mongodb)
+</div>
 
-## 🔧 Projects
+## <div align="center">🔧 Projects</div>
 
-Here are some of the cool projects I've been working on:
+<div align="center">
+  - [Project 1](https://github.com/yourusername/project1) - A short description of your project.
+  - [Project 2](https://github.com/yourusername/project2) - A short description of your project.
+  - [Project 3](https://github.com/yourusername/project3) - A short description of your project.
+</div>
 
-- [Project 1](https://github.com/yourusername/project1) - A short description of your project.
-- [Project 2](https://github.com/yourusername/project2) - A short description of your project.
-- [Project 3](https://github.com/yourusername/project3) - A short description of your project.
+## <div align="center">📈 GitHub Stats</div>
 
-## 📈 GitHub Stats
+<div align="center">
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+</div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+<div align="center">
+  ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+</div>
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+## <div align="center">💻 Current Projects</div>
 
-## 💻 Current Projects
+<div align="center">
+  - [Project X](https://github.com/yourusername/projectx) - Description of project X.
+  - [Project Y](https://github.com/yourusername/projecty) - Description of project Y.
+</div>
 
-- [Project X](https://github.com/yourusername/projectx) - Description of project X.
-- [Project Y](https://github.com/yourusername/projecty) - Description of project Y.
+## <div align="center">👾 Fun Facts</div>
 
-## 👾 Fun Facts
-
-- I love coding and solving complex problems.
-- I'm always excited to learn new frameworks and technologies.
-- Outside of coding, I enjoy reading tech blogs and playing video games.
+<div align="center">
+  - I love coding and solving complex problems.
+  - I'm always excited to learn new frameworks and technologies.
+  - Outside of coding, I enjoy reading tech blogs and playing video games.
+</div>
 
 ---
 
-Thanks for visiting! 🌟
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutarj&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="rutarj's GitHub Stats" />
+<div align="center">
+  Thanks for visiting! 🌟
+</div>
