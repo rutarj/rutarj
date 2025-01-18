@@ -2,6 +2,7 @@
 # Hello there, I'm Rutarj 👋
 
 <h3 align="center">Welcome to my GitHub profile! I'm an aspiring software developer passionate about creating innovative products through code.</h3>
+
 ## 📫 Contact Me
 [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Twitter](https://twitter.com/yourprofile) | [Portfolio](https://yourportfolio.com)
 
