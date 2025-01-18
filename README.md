@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and developer w
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mongodb)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mongodb,git,github,bootstrap,tailwind,graphql,docker,python,java,typescript,vue,angular,jquery,linux)
 
 ## 🔧 Projects
 
