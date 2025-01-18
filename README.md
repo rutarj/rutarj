@@ -14,9 +14,8 @@
 
 Here are some of the cool projects I've been working on:
 
-- [Project 1](https://github.com/yourusername/project1) - A short description of your project.
-- [Project 2](https://github.com/yourusername/project2) - A short description of your project.
-- [Project 3](https://github.com/yourusername/project3) - A short description of your project.
+- [Project 1](https://github.com/rutarj/fragments) - Cloud-based CRUD API designed for storing, retrieving, and converting small fragments of text, application data and images in various formats accessible through a RESTful API and deployed on AWS.
+- [Project 2](https://github.com/rutarj/Blog-Post-Application) - Blog Post Application - Node.js, Express, EJS & MongoDB Blog CRUD, It provides CRUD (Create, Read, Update, Delete) functionality for blog posts. The project is designed to demonstrate how to set up a simple blog system with these technologies.
 
 ## 📈 GitHub Stats
 
