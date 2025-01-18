@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/rutarj/rutarj/refs/heads/main/An8t-tIMQ4Q5JeR8Ns-rhwMAfB1kBWpO2751XY6ooAoVKbZVzqbvNyzHVdFgSMD-SLkjpjPNboFMK85YeYN0nPLxfR993T3M1E4FtgNwAYLwYpg.webp" alt="github-header-image" width="100%" />
+  <img src="https://raw.githubusercontent.com/rutarj/rutarj/refs/heads/main/An8t-tIMQ4Q5JeR8Ns-rhwMAfB1kBWpO2751XY6ooAoVKbZVzqbvNyzHVdFgSMD-SLkjpjPNboFMK85YeYN0nPLxfR993T3M1E4FtgNwAYLwYpg.webp" alt="github-header-image">
 </h2>
 
 <h3 align="center">Hello 👨‍💻, I'm Rutarj 👋</h3>
