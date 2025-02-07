@@ -41,6 +41,7 @@ Here are some of the cool projects I've been working on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutarj&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="rutarj's GitHub Stats" />
 </p>
 
+
 ---
 
 ## 💻 **Current Projects**
